@@ -69,6 +69,7 @@ SignalCraft integrates the following systems into a recursive, operational frame
 | **Jean Piaget** | Symbolic stage construction (schema → system) |
 | **R. Vance Peavy** | Narrative counselling and identity mapping |
 | **Seymour Papert** | Constructivist recursion, learning by building |
+| **Nelson Goodman** | Worldmaking as grammar of plural epistemologies (coherence over singular truth) |
 | **John Dewey** | Experiential learning, reflection-as-transformation |
 | **Mitch Resnick** | Joy-first UX scaffolds (via Scratch) |
 | **Lev Vygotsky** | Social-symbolic co-agency (ZPD, mediated tools) |
