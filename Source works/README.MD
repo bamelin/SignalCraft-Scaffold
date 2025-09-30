@@ -8,27 +8,36 @@ Each is cited as a structural layer — not as backdrop — and functions as a s
 	•	The Origins of Intelligence in Children (1952)
 	•	The Construction of Reality in the Child (1954)
 	•	Play, Dreams and Imitation in Childhood (1962)
+
 	•	R. Vance Peavy
 	•	Envisioning the Future: Worklife and Counselling (1993)
 	•	Socio-Dynamic Counselling (1997)
+
 	•	Seymour Papert
 	•	Mindstorms (1980)
 	•	The Children’s Machine (1993)
 	•	Epistemological Pluralism and the Revaluation of the Concrete (with Sherry Turkle, 1992)
 	•	Situating Constructionism (with Idit Harel, 1991)
+
 	•	Nelson Goodman
 	•	Languages of Art (1968)
 	•	Ways of Worldmaking (1978)
+
 	•	John Dewey
 	•	Experience and Education (1938)
+
 	•	Mitch Resnick
 	•	Give P’s a Chance: Projects, Peers, Passion, Play (2007)
+
 	•	Lev Vygotsky
 	•	Mind in Society (1978)
+
 	•	Lisa Feldman Barrett
-	•	How Emotions Are Made / Theory of Constructed Emotion (2017)
+	•	Theory of Constructed Emotion (2017)
+
 	•	Boyle & Pastula
 	•	The Assessment Component of Employment Counselling (1981)
+
 	•	Marshall McLuhan
 	•	Understanding Media: The Extensions of Man (1964)
 	•	The Medium is the Massage (1967)
