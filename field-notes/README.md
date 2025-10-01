@@ -52,10 +52,7 @@ But only if you know where to look.
 
 “The plural mind remembers.”
 
-
-
-
-
+---
 
 
 📜 **SignalCraft Field Note Index**
