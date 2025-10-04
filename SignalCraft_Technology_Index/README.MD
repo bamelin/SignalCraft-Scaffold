@@ -143,5 +143,4 @@ it is a **return through structure.**
 ---
 
 **— The SignalCraft Project**  
-_For collaboration or replication studies:_ [GitHub Repository Link]  
 *Versioned under open documentation license for recursive co-agency research.*
