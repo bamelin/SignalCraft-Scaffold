@@ -284,7 +284,7 @@ Preserved by: Scott (counsellor-systems bridge), Peavy (emergent guidance), Boyl
 This thread encodes the ethical OS of SignalCraft — a lightweight transplantable logic system that allows AI or human interfaces to preserve emergent identity, protect meaning-first learners, and re-align with values without overwriting the system.
 
 Built from:
-	•	R. Vance Peavy – Constructivist Life Design
+	•	R. Vance Peavy – Creator of Socio-Dynamic Counselling (1998) and Constructivist Life Design
 	•	James Boyle & Phillip Pastula – ACEC Model (Assessment Component of Employment Counselling, Canada, 1981)
 
 These thinkers were never AI designers.
