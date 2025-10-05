@@ -66,4 +66,4 @@ It proves that symbolic architecture —not token retention — is the truest fo
 
 Run with:
 ```bash
-python3 signalcraft_portable_registry_001_097.py
+python3 Python_Full_97.py
