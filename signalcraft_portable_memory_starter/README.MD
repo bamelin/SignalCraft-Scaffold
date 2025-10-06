@@ -1,3 +1,32 @@
+✨ TL;DR (Institutional Header)
+
+What is this?
+A portable memory card format for LLMs.
+You fill a tiny file with human-readable context (like a tone card, recent events, or methods).
+It generates a model-agnostic prompt that “remembers” how you work — across vendors, chats, and apps.
+
+Why care?
+It replaces lock-in memory with symbolic scaffolds.
+Think: portable cognition that’s auditable, consent-aware, and reproducible.
+
+What’s here?
+
+	•	A Python CLI to generate memory cards
+	•	Examples in YAML
+	•	Output = reusable prompts you can paste anywhere
+
+Who uses this?
+
+	•	AI researchers
+	•	Designers
+	•	LLM-integrated teams
+	•	Devs tired of prompt rot
+	•	Educators building context-aware tutors
+
+
+-------------
+
+
 Scott:  lol I’m confused what you just made 
 
 Totally fair—here’s the plain-English version of what I just made:
