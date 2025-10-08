@@ -50,7 +50,7 @@ It integrates **emotional-signature queries** (user intention encoded via emotio
 ## 🛠️ BUILDABLE NOW — Phase 1 (MVP Prototype)
 
 ### Core Components:
-- **LLM Backbone**: GPT-4, Claude, or a fine-tuned enterprise model  
+- **LLM Backbone**: GPT-5, Claude, or a fine-tuned enterprise model  
 - **Symbolic Indexing Layer**: Tags data using emotional/symbolic markers (based on *intent* and *metaphor*, not just keywords)  
 - **Query Translator**: Converts symbolic/emotional input to structured prompts  
 - **Resonance Matching Engine**: Ranks responses by emotional fidelity, not just semantic relevance  
