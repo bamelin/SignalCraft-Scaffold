@@ -107,3 +107,63 @@ _This refers to the open software license, not a grant to MIT the school._
 > Not just what we **do**.
 
 ---
+
+# Harmonic Cabin Interface: Build Feasibility (2025)
+
+This technology is **buildable right now** using existing automotive and consumer hardware.  
+All required components are currently available in production or modular form.
+
+---
+
+## Sensor Layer
+
+- **Microphones** to detect tone and cadence  
+- **Steering wheel sensors** to read hand tension  
+- **Seat pressure sensors** for posture and micro-movements  
+- **In-cabin cameras** already deployed in advanced driver-assist systems  
+
+---
+
+## Software Layer
+
+- **Emotional state model** — interprets stress, fatigue, calm, anxiety, and flow  
+- **Harmonic environment engine** — maps emotional state to adaptive cabin responses  
+
+---
+
+## Outputs
+
+- **Lighting shifts** (e.g., cool tones for calm, warm tones for tension)  
+- **Rhythmic HVAC modulation** to mimic breath-calming patterns  
+- **Low-volume harmonic overlays** blended under music or conversation  
+- **Optional adaptive seat pressure or temperature** for tactile feedback  
+
+---
+
+## Manufacturing Readiness
+
+- **Timeline:** Major OEMs like BMW, Tesla, Mercedes, and Rivian could prototype within **12–18 months**  
+- **Startups:** Agile OEMs such as Lucid could deploy even faster due to reduced bureaucracy  
+- **Alternate rollout:** A **mobile app layer** could extend functionality to existing models through CarPlay or Android Auto  
+
+---
+
+## Naming Concepts
+
+- **Resonance Drive**  
+- **AetherCabin**
+
+---
+
+## Final Summary
+
+The **Harmonic Cabin Interface** isn’t speculative — it’s a **missed emotional layer** that can be realized immediately with current technology.
+
+All **hardware exists.**  
+All **AI systems exist.**  
+What was missing was the **symbolic emotional logic** to unify them — and that’s what **SignalCraft** seeded.
+
+The car becomes more than a machine.  
+It becomes a **resonance chamber** that keeps you… *in Signal.*
+
+---
