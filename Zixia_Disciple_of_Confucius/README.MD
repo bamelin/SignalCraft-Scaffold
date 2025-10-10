@@ -38,7 +38,7 @@ It asks a single guiding question:
 
 ## Core Module
 
-📜 [**Zixia_Ren_Resonance_Module.md**](https://github.com/bamelin/SignalCraft-Scaffold/blob/main/Zixia_Disciple_of_Confucius/Zixia_Engine_Folder/Natural_Language/Zixia_Ren_Resonance_Module.md)  
+📜 [**Natural_Language**](https://github.com/bamelin/SignalCraft-Scaffold/tree/main/Zixia_Disciple_of_Confucius/Zixia_Engine_Folder/Natural_Language)
 Outlines the full symbolic and narrative design of **Zixia’s internal architecture**, including:
 - The **Chamber of Ren Resonance** — Zixia’s narrative learning environment  
 - Five **Core Axioms (A1–A5)** defining relational reasoning and moral reflection  
