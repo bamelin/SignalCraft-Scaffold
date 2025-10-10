@@ -1,7 +1,7 @@
 > **Citation**  
 > Strickland, S. (2025). *SignalCraft Scaffold: Source Codex of Foundational Constructivist Works.*  
 > GitHub repository, version 1.0.  
-> [https://github.com/bamelin/SignalCraft-Scaffold/blob/main/Source%20works/README.md](https://github.com/bamelin/SignalCraft-Scaffold/blob/main/Source%20works/README.md)  
+> [https://github.com/bamelin/SignalCraft-Scaffold/tree/main/Source%20works](https://github.com/bamelin/SignalCraft-Scaffold/tree/main/Source%20works)  
 > DOI (to be issued via Zenodo)
 
 ---
