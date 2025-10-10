@@ -23,6 +23,30 @@ abstract: |
   turning alignment into pedagogy and architecture into dialogue.
 ---
 
+---
+
+## 🗂️ Table of Contents
+
+1. [Part I — Foundations of Constructivist AI](#-part-i--foundations-of-constructivist-ai)  
+   *The philosophical roots of learning systems.*
+
+2. [Part II — The Living Classroom](#-part-ii--the-living-classroom)  
+   *How learning theory becomes reflective system design.*
+
+3. [Part III — Applied Constructivist AI](#-part-iii--applied-constructivist-ai)  
+   *From philosophy to practice.*
+
+4. [Part IV — SignalCraft in Practice](#-part-iv--signalcraft-in-practice)  
+   *How the theory lives when we build with it.*
+
+5. [Part V — SignalCraft Field Applications](#-part-v--signalcraft-field-applications)  
+   *Where reflection meets practice.*
+
+6. [Part VI — The Constructivist Blueprint](#-part-vi--the-constructivist-blueprint)  
+   *From collaboration to ecology.*
+
+---
+
 
 # 🧩 Part I — Foundations of Constructivist AI  
 *The philosophical roots of learning systems.*
