@@ -1,9 +1,12 @@
-> **Citation**
+> **Citation**  
 > Strickland, S. (2025). *SignalCraft Scaffold: Source Codex of Foundational Constructivist Works.*  
-> GitHub repository version 1.0.https://github.com/bamelin/SignalCraft-Scaffold/blob/main/Source%20works/README.MD
-DOI to be issued via Zenodo.
+> GitHub repository, version 1.0.  
+> [https://github.com/bamelin/SignalCraft-Scaffold/blob/main/Source%20works/README.md](https://github.com/bamelin/SignalCraft-Scaffold/blob/main/Source%20works/README.md)  
+> DOI (to be issued via Zenodo)
 
-📚 Source Codex: Canonical References
+---
+
+## 📚 Source Codex: Canonical References
 
 SignalCraft treats the following works as live dependencies in its epistemological scaffold.
 Each is cited as a structural layer — not as backdrop — and functions as a symbolic module in the recursive framework.
