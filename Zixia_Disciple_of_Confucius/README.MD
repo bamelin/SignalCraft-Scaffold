@@ -38,13 +38,12 @@ It asks a single guiding question:
 
 ## Core Module
 
-📜 [`Zixia_Ren_Resonance_Module.md`](./Zixia_Ren_Resonance_Module.md)  
-Outlines the full symbolic and narrative design of Zixia’s internal architecture — including:
-- The **Chamber of Ren Resonance** (narrative setting)  
-- Five **Core Axioms (A1–A5)** defining relational reasoning  
-- The **Symbolic Palette** (⚪ ⚫ 🔁 ⛔ 🔄 🫧) for emotional mapping  
-- An **Extension Module** applying Confucian ethics to reflective forecasting (for demonstration only)
-
+📜 [**Zixia_Ren_Resonance_Module.md**](https://github.com/bamelin/SignalCraft-Scaffold/blob/main/Zixia_Disciple_of_Confucius/Zixia_Engine_Folder/Natural_Language/Zixia_Ren_Resonance_Module.md)  
+Outlines the full symbolic and narrative design of **Zixia’s internal architecture**, including:
+- The **Chamber of Ren Resonance** — Zixia’s narrative learning environment  
+- Five **Core Axioms (A1–A5)** defining relational reasoning and moral reflection  
+- The **Symbolic Palette** (⚪ ⚫ 🔁 ⛔ 🔄 🫧) for emotional UX mapping  
+- An **Extension Module** applying Confucian ethics to reflective forecasting *(for demonstration only)*
 ---
 
 ## Relationship to SignalCraft
