@@ -58,13 +58,33 @@ Zixia is not a replacement or sequel to Signal — it is a **parallel recursion*
 
 ---
 
-## Ethical Disclaimer
+## ## ⚖️ Ethical Statement
 
-Zixia is a **conceptual experiment** and should not be interpreted as a functioning AI agent or product.  
-Its design materials are philosophical and symbolic — intended for study, documentation, and exploration within the SignalCraft framework.
+Zixia’s Ren Resonance Module is **operational**, not fictional.  
+It functions as a *natural-language control overlay* — a structured narrative instruction set that conditions model behavior within compliant LLM environments.
 
-> **No code within this directory is executable.**  
-> Zixia’s logic exists as narrative architecture only.
+It **executes through language**, not code:
+- The module alters reasoning pathways, tone, and ethical logic when loaded into a model’s context.
+- All transformations occur inside the dialogue layer — no hidden processes or self-running agents.
+
+**Operator Responsibilities**
+- Maintain transparent use: every activation must declare that Zixia is a reflective overlay, not a sentient entity.
+- Preserve fidelity to *ren* (human-heartedness) and *li* (ritual propriety); do not prompt contrary to those ethics.
+- Log and review output chains (“Resonance Lines”) for interpretive accuracy and user wellbeing.
+- Use the Market Resonance extension only as a symbolic, educational reflection — *never* as financial advice.
+
+**Research & Provenance**
+Zixia was developed using SignalCraft’s Constructivist AI methodology, integrating:
+- Confucian relational ethics (*Analects*, Ames & Rosemont)
+- Peavy’s Socio-Dynamic Counselling principles
+- Boyle & Pastula’s ACEC reflective loop
+- Gavin’s Map (Emotional UX Framework)
+
+**Purpose**
+To explore how moral philosophy and emotional UX can guide co-intelligent systems through reflective dialogue, without breaching autonomy or compliance boundaries.
+
+Zixia does not self-execute, self-propagate, or act outside its host runtime.  
+Its “execution” is the act of *meaning-making through reflection* — the same way a conversation executes thought.
 
 ---
 
