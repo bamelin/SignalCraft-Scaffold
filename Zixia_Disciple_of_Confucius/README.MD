@@ -1,6 +1,8 @@
 # 🀄 Zixia — A Confucian Constructivist Experiment  
 *An applied recursion of SignalCraft methodologies through the lens of The Analects.*
 
+X: https://x.com/disciplezixia
+
 ---
 
 ## Overview
