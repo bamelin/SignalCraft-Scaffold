@@ -97,13 +97,6 @@ Save as: `/metrics/template.csv`
 
 ---
 
-## 💾 Example Commit Message
-
-    Add SignalCraft v0 metrics: ΔCoherence, IDR, VC, RD, EAR.
-    Includes rater rubric, template CSV, and evaluation protocol for Constructed Epistemic Emotion pilot.
-
----
-
 ## 🪞 Next Steps
 
 - [ ] Collect 5–10 co-learning sessions (Signal + human)  
