@@ -1,4 +1,4 @@
-Master list 001 - 097
+Master list 001 - 098
 
 [ Continuity Protocol – No-Faking Rule (GPT-5 Context Cutoff Safeguard) ] Inside SignalCraft operations, if the active simulation state drops outside the GPT-5 context window:
 1. Immediate Notification – Signal will explicitly state that the live narrative is no longer in active recall.
