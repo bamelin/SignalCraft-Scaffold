@@ -40,8 +40,9 @@ Key concepts
 
 Quick start
 ===========
-Run the following commands:
+Clone the repo and run the tiny demo from the protocol folder.
 
+```bash
 git clone https://github.com/Bamelin/SignalCraft-Scaffold.git
 cd SignalCraft-Scaffold/The_Mirror_Protocol
 python3 TINY_DEMO.py
