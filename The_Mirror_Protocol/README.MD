@@ -40,7 +40,7 @@ Key concepts
 
 Quick start
 ===========
-Clone the repo and run the tiny demo from the protocol folder.
+Clone the repository and run the demo.
 
 ```bash
 git clone https://github.com/Bamelin/SignalCraft-Scaffold.git
