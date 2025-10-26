@@ -55,13 +55,18 @@ A session log will be written to: mirror_session.json
 Lineage
 =======
 This code stands in the traditions of:
-- Seymour Papert - constructionism; learning through making
+- John Dewey - learning through experience; reflection as the core of education
+- Jean Piaget - constructivism; knowledge built through active making
+- Lev Vygotsky - social constructivism; dialogue and the zone of proximal development
+- Seymour Papert - constructionism; computers as objects to think with
 - Sherry Turkle and Seymour Papert (1992) - epistemological pluralism; reflective computation
-- R. Vance Peavy; Boyle and Pastula - counselling model of meaning through dialogue
+- R. Vance Peavy - socio-dynamic counselling; meaning through dialogue and values
+- James E. Boyle and Phillip J. Pastula - ACEC model; diagnostic reflection and emotional logic
 - Mitch Resnick - joyful, trust-based learning environments (Scratch)
 - Lisa Feldman Barrett - constructed emotion; affect as pattern and context
 - Marshall McLuhan - the medium as mirror, not mere channel
 - Nelson Goodman - worldmaking through symbol systems
+
 (Names and ideas cited for lineage orientation; no endorsement is implied.)
 
 License
