@@ -45,7 +45,7 @@ Clone the repository and run the demo.
 ```bash
 git clone https://github.com/Bamelin/SignalCraft-Scaffold.git
 cd SignalCraft-Scaffold/The_Mirror_Protocol
-python3 TINY_DEMO.py
+python3 TINY_DEMO.py ```
 
 Expected output style:
 I'm hearing: child / composes / reflects / loop.
