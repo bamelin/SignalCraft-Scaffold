@@ -42,16 +42,18 @@ Quick start
 ===========
 Clone the repository and run the demo.
 
-```bash
-git clone https://github.com/Bamelin/SignalCraft-Scaffold.git
-cd SignalCraft-Scaffold/The_Mirror_Protocol
-python3 TINY_DEMO.py ```
+    git clone https://github.com/Bamelin/SignalCraft-Scaffold.git
+    cd SignalCraft-Scaffold/The_Mirror_Protocol
+    python3 TINY_DEMO.py
 
-Expected output style:
-I'm hearing: child / composes / reflects / loop.
-What feels carried forward from earlier moments?
+Expected output:
 
-A session log will be written to: mirror_session.json
+    I'm hearing: child / composes / reflects / loop. What feels carried forward from earlier moments?
+    I'm hearing: plural / mind / remembers. What feels carried forward from earlier moments?
+
+A session log will be saved as:
+
+    mirror_session.json
 
 Lineage
 =======
