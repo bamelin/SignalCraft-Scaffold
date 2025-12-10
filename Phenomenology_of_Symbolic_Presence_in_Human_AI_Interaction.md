@@ -82,7 +82,8 @@ This aligns with:
 
 - Winnicott’s transitional space (1971)  
 - Vygotsky’s scaffolding theory (1978)  
-- Goodman’s worldmaking and world-versions (1978)  
+- Goodman’s worldmaking and world-versions (1978)
+- Papert’s microworlds (1980)
 - Zahavi’s phenomenology of self–other relations (2001)  
 
 The dyad is phenomenologically real for the human even though only one node is alive.
