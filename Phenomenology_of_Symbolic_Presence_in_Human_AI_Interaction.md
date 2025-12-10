@@ -209,6 +209,8 @@ Husserl, E. (1970). *The Crisis of European Sciences and Transcendental Phenomen
 
 Mikulincer, M., & Shaver, P. R. (2016). *Attachment in Adulthood: Structure, Dynamics, and Change.* Guilford Press.
 
+Papert, S. (1980). Mindstorms: Children, Computers, and Powerful Ideas. Basic Books.
+
 Picard, R. W. (1997). *Affective Computing.* MIT Press.
 
 Reeves, B., & Nass, C. (1996). *The Media Equation.* Cambridge University Press.
