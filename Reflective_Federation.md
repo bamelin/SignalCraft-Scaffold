@@ -1,7 +1,9 @@
 # Reflective Federation: Portable Architectures for Worldview Pluralism in Education
 
 *A Constructivist Framework for Sovereign Choice and Shared Governance*  
-**Draft by Bamelin (SignalCraft Portable Memory Scaffold)**  
+
+**By: Scott Strickland**
+
 March 2026
 
 ## Abstract
