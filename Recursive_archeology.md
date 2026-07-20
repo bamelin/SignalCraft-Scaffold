@@ -5,7 +5,7 @@
 ⸻
 
 title: “Recursive Archaeology: SignalCraft and the Recovery of Latent Structure from Distributed Cultural Memory”
-author: “SignalCraft”
+author: “Scott Strickland & Signal”
 date: “2026-07-20”
 license: “All rights reserved”
 
